@@ -1,0 +1,9 @@
+# Ignore audio files
+*.aac
+*.mp3
+
+# Ignore text files
+*.txt
+
+# Ignore m3u8 playlist files
+*.m3u8
